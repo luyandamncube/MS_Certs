@@ -17,10 +17,10 @@ This is a collection of learning resources for Microsoft Certifications I am int
 - [x] [70-762: Developing SQL Databases](https://docs.microsoft.com/en-us/learn/certifications/exams/70-762)
 
 ## Microsoft Certified: Azure AI Engineer Associate
-- [ ] [AI-100](https://github.com/luyandamncube/UNISA/tree/master/AI-100) 
+- [ ] [AI-100](https://github.com/luyandamncube/MS_Certs/tree/master/AI-100) 
 
 ## Microsoft Certified: Azure Data Engineer Associate
-- [ ] [DP-200: Implementing an Azure Data Solution](https://github.com/luyandamncube/UNISA/tree/master/DP-200)
+- [ ] [DP-200: Implementing an Azure Data Solution](https://github.com/luyandamncube/MS_Certs/tree/main/DP-200)
 - [ ] [DP-201: Designing an Azure Data Solution](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201)
 
 ## Microsoft Certified: Azure Data Scientist Associate

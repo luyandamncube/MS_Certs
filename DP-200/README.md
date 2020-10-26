@@ -1,7 +1,7 @@
 # Microsoft Certified: Azure Data Engineer Associate
 
 <p align="center">
-  <img src="src/dp-200.png"/>
+  <img src="../src/dp-200.png"/>
 </p>
 
 ## DP-200: Implementing an Azure Data Solution

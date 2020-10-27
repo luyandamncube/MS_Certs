@@ -1,7 +1,7 @@
 # MS_Certs
 
 <p align="center">
-  <img src="src/ms_certified.webp"/>
+  <img height="200" src="src/ms_certified.webp"/>
 </p>
 
 ## Microsoft Certifications 

@@ -10,10 +10,11 @@ This is a collection of learning resources for Microsoft Certifications I am int
 ## My badges
 
 <div id="cover">
-  <img src="https://imgur.com/dv9Z2Nu.jpg">
-  <img src="https://imgur.com/htWKe9m.gif">
-  <img src="https://imgur.com/eog5eFZ.gif">
-  <img src="https://imgur.com/nUJVBmO.jpg">
+  <img src="src/MTA-Database-Fundamentals-2019.png">
+  <img src="src/Querying_Data_with_Transact-SQL-01.png">
+  <img src="src/Developing_SQL_Databases-01.png">
+  <img src="src/MCSA-SQL-2016-Database-Development-2019.png">
+  <img src="src/azure-data-engineer-associate-600x600.png">
 </div>
 
 

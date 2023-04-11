@@ -7,6 +7,16 @@
 ## Microsoft Certifications 
 This is a collection of learning resources for Microsoft Certifications I am interested in or have completed. 
 
+## My badges
+
+<div id="cover">
+  <img src="https://imgur.com/dv9Z2Nu.jpg">
+  <img src="https://imgur.com/htWKe9m.gif">
+  <img src="https://imgur.com/eog5eFZ.gif">
+  <img src="https://imgur.com/nUJVBmO.jpg">
+</div>
+
+
 ## MTA: Database Fundamentals
 [View my badge here](https://www.youracclaim.com/badges/1a5dde84-d5fc-4dd5-8f91-ba8a636588bf)
 - [x] [90-364 Database Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-364)

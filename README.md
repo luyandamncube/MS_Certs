@@ -46,5 +46,5 @@ This is a collection of learning resources for Microsoft Certifications I am int
 
 and maybe someday...
 
-## Microsoft Certified: DevOps Engineer Expert
+## Microsoft Certified: Azure Solutions Architect Expert
 - [ ] [AZ-305 Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)

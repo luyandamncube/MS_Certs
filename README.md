@@ -38,8 +38,9 @@ This is a collection of learning resources for Microsoft Certifications I am int
 ## Microsoft Certified: Azure Data Engineer Associate
 - [x] [DP-203: Implementing an Azure Data Solution](https://github.com/luyandamncube/MS_Certs/tree/main/dp-203)
 
-## Microsoft Certified: Azure Data Scientist Associate
-- [ ] [DP-100: Designing and Implementing a Data Science Solution on Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
+## Microsoft Certified: DevOps Engineer Expert
+- [ ] [AZ-104 Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
 
-## Microsoft Certified: Azure AI Engineer Associate
-- [ ] [AI-100](https://github.com/luyandamncube/MS_Certs/tree/master/AI-100) 
+## Microsoft Certified: DevOps Engineer Expert
+- [ ] [AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
+

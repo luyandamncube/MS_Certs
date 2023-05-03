@@ -44,3 +44,7 @@ This is a collection of learning resources for Microsoft Certifications I am int
 ## Microsoft Certified: DevOps Engineer Expert
 - [ ] [AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
 
+and maybe someday...
+
+## Microsoft Certified: DevOps Engineer Expert
+- [ ] [AZ-305 Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)

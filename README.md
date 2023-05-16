@@ -25,6 +25,9 @@ This is a collection of learning resources for Microsoft Certifications I am int
   <a href="https://www.credly.com/earner/earned/badge/3b820f53-f40a-45f2-a92a-ede6abc11d37">
      <img height="200" src="src/azure-data-engineer-associate-600x600.png">
   </a>
+  <a href="#">
+     <img height="200" src="src/lakehouse-fundamentals.png">
+  </a>
 </div>
 
 ## Microsoft Certifications
@@ -50,5 +53,7 @@ Microsoft Certified: Azure Solutions Architect Expert
 - [ ] [AZ-305 Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
 
 ## Databricks Exams
+- [ ] [Databricks Lakehouse Fundamentals](https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation)
 
-### [x] [Databricks Lakehouse Fundamentals](https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation)
+Databricks Data Engineer Associate
+- [ ]  

@@ -47,7 +47,7 @@ Microsoft Certified: Azure Data Engineer Associate
 Microsoft Certified: Azure Administrator Associate
 - [ ] [AZ-104 Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
 
-## Microsoft Certified: DevOps Engineer Expert
+Microsoft Certified: DevOps Engineer Expert
 - [ ] [AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
 
 and maybe someday...
@@ -55,7 +55,7 @@ and maybe someday...
 Microsoft Certified: Azure Solutions Architect Expert
 - [ ] [AZ-305 Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
 
-## Databricks Exams
+## Databricks Certifications
 - [x] [Databricks Lakehouse Fundamentals](https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation)
 
 Databricks Data Engineer Associate

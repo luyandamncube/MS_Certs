@@ -56,7 +56,7 @@ Microsoft Certified: Azure Solutions Architect Expert
 - [ ] [AZ-305 Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
 
 ## Databricks Exams
-- [ ] [Databricks Lakehouse Fundamentals](https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation)
+- [x] [Databricks Lakehouse Fundamentals](https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation)
 
 Databricks Data Engineer Associate
-- [ ]  
+- [ ] [Databricks Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate) 

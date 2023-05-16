@@ -26,6 +26,9 @@ This is a collection of learning resources for Microsoft Certifications I am int
      <img height="200" src="src/azure-data-engineer-associate-600x600.png">
   </a>
   <a href="#">
+     <img height="200" src="src/#">
+  </a>
+    <a href="#">
      <img height="200" src="src/lakehouse-fundamentals.png">
   </a>
 </div>

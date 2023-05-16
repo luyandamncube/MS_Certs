@@ -28,11 +28,9 @@ This is a collection of learning resources for Microsoft Certifications I am int
 </div>
 
 ## Microsoft Certifications
+- [x] MTA: Database Fundamentals [90-364 Database Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-364)
 
-### MTA: Database Fundamentals
-- [x] [90-364 Database Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-364)
-
-### MCSA: Database Development SQL 2016 
+MCSA: Database Development SQL 2016 
 - [x] [70-761: Querying Data with Transact-SQL](https://docs.microsoft.com/en-us/learn/certifications/exams/70-761)
 - [x] [70-762: Developing SQL Databases](https://docs.microsoft.com/en-us/learn/certifications/exams/70-762)
 
@@ -52,4 +50,4 @@ and maybe someday...
 
 ## Databricks Exams
 
-### [x] Databricks Lakehouse Fundamentals [Lakehouse Fundamentals](https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation)
+### [x] [Databricks Lakehouse Fundamentals](https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation)

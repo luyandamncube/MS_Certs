@@ -28,7 +28,7 @@ This is a collection of learning resources for Microsoft Certifications I am int
   <a href="#">
      <img height="200" src="src/#">
   </a>
-    <a href="#">
+    <a href="https://credentials.databricks.com/cdc3702d-cb07-4a94-ad41-40d63e732755#gs.ydg5a3">
      <img height="200" src="src/lakehouse-fundamentals.png">
   </a>
 </div>
